@@ -1,0 +1,15 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "hr-scenario-skills",
+  "version": "2.2.0",
+  "description": "Four HR workflows for recruiting evaluation, performance evidence, payroll reconciliation, and administrative purchasing.",
+  "repository": "https://github.com/stonele01/hrskill",
+  "extensions": {
+    "com.openai": {
+      "interface": {
+        "displayName": "HR 场景技能包",
+        "shortDescription": "招聘评估、绩效材料、薪酬复核与行政采购"
+      }
+    }
+  }
+}
