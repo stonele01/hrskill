@@ -1,0 +1,5 @@
+interface:
+  display_name: "行政采购记账"
+  short_description: "整理票据、订单与收货信息，核对重复和差额，输出采购台账"
+  default_prompt: "用 $hr-admin-purchase-ledger 整理这些采购资料，保留来源并核对重复、收货和付款状态，不付款。"
+

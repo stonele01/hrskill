@@ -1,0 +1,5 @@
+interface:
+  display_name: "绩效证据归档"
+  short_description: "把月度 KPI 和周任务整理为有来源的个人证据包和缺交清单"
+  default_prompt: "用 $hr-performance-evidence 整理本月 KPI 与周任务材料，检查缺交、重复和口径冲突，不自动评级。"
+

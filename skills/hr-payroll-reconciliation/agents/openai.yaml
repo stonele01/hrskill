@@ -1,0 +1,5 @@
+interface:
+  display_name: "薪酬试算复核"
+  short_description: "按已确认规则核对工资明细、缺卡和前期差异，只试算不发薪"
+  default_prompt: "用 $hr-payroll-reconciliation 按公司确认的规则核对本月工资，未知项保持待确认，不提交发薪。"
+

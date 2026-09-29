@@ -1,0 +1,4 @@
+interface:
+  display_name: "招聘需求澄清与面试评估"
+  short_description: "从用人需求提问、简历筛选到面试录音分析，输出可视化评分与人工复核报告"
+  default_prompt: "用 $hr-resume-screening 从我已完成的招聘阶段继续：初筛后向我澄清真实用人需求，按简历出面试题，再分析面试录音并生成可视化评估报告。"
